@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 
 const Thing = require('./models/Thing');
 
-mongoose.connect("mongodb+srv://admin:bouzen3@cluster0-m4ytm.mongodb.net/test?retryWrites=true&w=majority",
+mongoose.connect("Add Your Own Link",
     {
         useNewUrlParser: true,
         useUnifiedTopology: true
